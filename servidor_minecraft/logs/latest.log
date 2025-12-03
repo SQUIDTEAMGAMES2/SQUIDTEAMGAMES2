@@ -1,0 +1,128 @@
+[03Dec2025 00:08:13.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[03Dec2025 00:08:13.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: set time day<--[HERE]
+[03Dec2025 00:08:17.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[03Dec2025 00:18:35.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samu3425 has made the advancement [Music register]
+[03Dec2025 00:20:45.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Samu3425: Set the time to 1000]
+[03Dec2025 00:59:52.944] [Server thread/INFO] [TransportSimulationCore/]: - Changed stations: 1
+[03Dec2025 00:59:52.944] [Server thread/INFO] [TransportSimulationCore/]: Save complete for minecraft/overworld in 0.001 second(s)
+[03Dec2025 01:00:22.994] [Server thread/INFO] [TransportSimulationCore/]: - Changed stations: 1
+[03Dec2025 01:00:22.994] [Server thread/INFO] [TransportSimulationCore/]: Save complete for minecraft/overworld in 0.001 second(s)
+[03Dec2025 01:03:19.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Samu3425: Location (575.6172522306442, 71.0, 194.8520917892456) too far away from hit block BlockPos{x=575, y=70, z=193}.
+[03Dec2025 01:03:19.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Samu3425: Location (575.6172522306442, 71.0, 194.8520917892456) too far away from hit block BlockPos{x=575, y=70, z=193}.
+[03Dec2025 01:23:25.244] [Server thread/INFO] [TransportSimulationCore/]: - Deleted platforms: 1
+[03Dec2025 01:23:25.244] [Server thread/INFO] [TransportSimulationCore/]: - Deleted sidings: 1
+[03Dec2025 01:23:25.245] [Server thread/INFO] [TransportSimulationCore/]: - Deleted rails: 4
+[03Dec2025 01:23:25.245] [Server thread/INFO] [TransportSimulationCore/]: Save complete for minecraft/overworld in 0.002 second(s)
+[03Dec2025 01:23:55.294] [Server thread/INFO] [TransportSimulationCore/]: - Deleted platforms: 2
+[03Dec2025 01:23:55.294] [Server thread/INFO] [TransportSimulationCore/]: - Changed routes: 1
+[03Dec2025 01:23:55.295] [Server thread/INFO] [TransportSimulationCore/]: - Deleted rails: 3
+[03Dec2025 01:23:55.295] [Server thread/INFO] [TransportSimulationCore/]: Save complete for minecraft/overworld in 0.002 second(s)
+[03Dec2025 01:30:32.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Samu3425: Set the time to 1000]
+[03Dec2025 01:33:44.446] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Esteban24xy lost connection: Timed out
+[03Dec2025 01:33:44.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Esteban24xy left the game
+[03Dec2025 01:33:44.495] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Dec2025 01:33:52.245] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Samu3425 lost connection: Timed out
+[03Dec2025 01:33:52.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samu3425 left the game
+[03Dec2025 01:34:03.497] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1434acd8
+[03Dec2025 01:34:03.501] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Esteban24xy[/127.106.108.150:51857] logged in with entity id 2462 at (509.41100778388545, 88.34843070650555, 196.88600776865223)
+[03Dec2025 01:34:03.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Esteban24xy joined the game
+[03Dec2025 01:34:30.348] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@27aeedea[id=<null>,name=Samu3425,properties={},legacy=false] (/127.222.127.130:54903): Took too long to log in
+[03Dec2025 01:34:30.348] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@27aeedea[id=<null>,name=Samu3425,properties={},legacy=false] (/127.222.127.130:54903) lost connection: Took too long to log in
+[03Dec2025 01:34:30.395] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Dec2025 01:34:33.595] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Esteban24xy lost connection: Timed out
+[03Dec2025 01:34:33.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Esteban24xy left the game
+[03Dec2025 01:35:15.947] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3b4e5194
+[03Dec2025 01:35:15.952] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Samu3425[/127.222.127.130:56295] logged in with entity id 2473 at (482.3538729084507, 82.62226388173985, 179.24764798294126)
+[03Dec2025 01:35:15.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samu3425 joined the game
+[03Dec2025 01:35:16.098] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@33068664
+[03Dec2025 01:35:16.102] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Esteban24xy[/127.106.108.150:39131] logged in with entity id 2485 at (509.41100778388545, 88.34843070650555, 196.88600776865223)
+[03Dec2025 01:35:16.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Esteban24xy joined the game
+[03Dec2025 01:41:27.044] [Server thread/INFO] [TransportSimulationCore/]: - Deleted depots: 1
+[03Dec2025 01:41:27.044] [Server thread/INFO] [TransportSimulationCore/]: Save complete for minecraft/overworld in 0.001 second(s)
+[03Dec2025 01:41:57.094] [Server thread/INFO] [TransportSimulationCore/]: - Changed stations: 1
+[03Dec2025 01:41:57.094] [Server thread/INFO] [TransportSimulationCore/]: - Deleted stations: 1
+[03Dec2025 01:41:57.094] [Server thread/INFO] [TransportSimulationCore/]: Save complete for minecraft/overworld in 0.001 second(s)
+[03Dec2025 01:42:27.144] [Server thread/INFO] [TransportSimulationCore/]: - Deleted routes: 1
+[03Dec2025 01:42:27.144] [Server thread/INFO] [TransportSimulationCore/]: - Changed depots: 1
+[03Dec2025 01:42:27.145] [Server thread/INFO] [TransportSimulationCore/]: Save complete for minecraft/overworld in 0.002 second(s)
+[03Dec2025 01:47:27.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Samu3425: Set the weather to clear]
+[03Dec2025 01:50:27.894] [Server thread/INFO] [TransportSimulationCore/]: - Changed platforms: 2
+[03Dec2025 01:50:27.895] [Server thread/INFO] [TransportSimulationCore/]: - Changed rails: 2
+[03Dec2025 01:50:27.895] [Server thread/INFO] [TransportSimulationCore/]: Save complete for minecraft/overworld in 0.002 second(s)
+[03Dec2025 01:50:57.944] [Server thread/INFO] [TransportSimulationCore/]: - Changed sidings: 1
+[03Dec2025 01:50:57.944] [Server thread/INFO] [TransportSimulationCore/]: - Changed rails: 1
+[03Dec2025 01:50:57.944] [Server thread/INFO] [TransportSimulationCore/]: Save complete for minecraft/overworld in 0.001 second(s)
+[03Dec2025 01:51:27.994] [Server thread/INFO] [TransportSimulationCore/]: - Changed rails: 3
+[03Dec2025 01:51:27.994] [Server thread/INFO] [TransportSimulationCore/]: Save complete for minecraft/overworld in 0.001 second(s)
+[03Dec2025 01:51:58.044] [Server thread/INFO] [TransportSimulationCore/]: - Changed rails: 1
+[03Dec2025 01:51:58.044] [Server thread/INFO] [TransportSimulationCore/]: - Deleted rails: 1
+[03Dec2025 01:51:58.044] [Server thread/INFO] [TransportSimulationCore/]: Save complete for minecraft/overworld in 0.001 second(s)
+[03Dec2025 01:52:28.094] [Server thread/INFO] [TransportSimulationCore/]: - Changed stations: 1
+[03Dec2025 01:52:28.094] [Server thread/INFO] [TransportSimulationCore/]: - Changed rails: 1
+[03Dec2025 01:52:28.095] [Server thread/INFO] [TransportSimulationCore/]: Save complete for minecraft/overworld in 0.002 second(s)
+[03Dec2025 01:52:58.144] [Server thread/INFO] [TransportSimulationCore/]: - Changed platforms: 2
+[03Dec2025 01:52:58.145] [Server thread/INFO] [TransportSimulationCore/]: - Changed rails: 2
+[03Dec2025 01:52:58.145] [Server thread/INFO] [TransportSimulationCore/]: Save complete for minecraft/overworld in 0.002 second(s)
+[03Dec2025 01:53:28.194] [Server thread/INFO] [TransportSimulationCore/]: - Changed rails: 2
+[03Dec2025 01:53:28.195] [Server thread/INFO] [TransportSimulationCore/]: Save complete for minecraft/overworld in 0.001 second(s)
+[03Dec2025 01:53:58.244] [Server thread/INFO] [TransportSimulationCore/]: - Changed routes: 1
+[03Dec2025 01:53:58.244] [Server thread/INFO] [TransportSimulationCore/]: Save complete for minecraft/overworld in 0.001 second(s)
+[03Dec2025 01:54:28.294] [Server thread/INFO] [TransportSimulationCore/]: - Changed routes: 1
+[03Dec2025 01:54:28.294] [Server thread/INFO] [TransportSimulationCore/]: Save complete for minecraft/overworld in 0.001 second(s)
+[03Dec2025 01:54:58.344] [Server thread/INFO] [TransportSimulationCore/]: - Changed sidings: 1
+[03Dec2025 01:54:58.344] [Server thread/INFO] [TransportSimulationCore/]: Save complete for minecraft/overworld in 0.001 second(s)
+[03Dec2025 01:55:28.394] [Server thread/INFO] [TransportSimulationCore/]: - Changed sidings: 1
+[03Dec2025 01:55:28.394] [Server thread/INFO] [TransportSimulationCore/]: Save complete for minecraft/overworld in 0.001 second(s)
+[03Dec2025 01:55:58.444] [Server thread/INFO] [TransportSimulationCore/]: - Changed sidings: 1
+[03Dec2025 01:55:58.444] [Server thread/INFO] [TransportSimulationCore/]: Save complete for minecraft/overworld in 0.001 second(s)
+[03Dec2025 01:56:28.494] [Server thread/INFO] [TransportSimulationCore/]: - Changed sidings: 1
+[03Dec2025 01:56:28.494] [Server thread/INFO] [TransportSimulationCore/]: Save complete for minecraft/overworld in 0.001 second(s)
+[03Dec2025 01:56:30.945] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Esteban24xy lost connection: Disconnected
+[03Dec2025 01:56:30.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Esteban24xy left the game
+[03Dec2025 01:57:04.044] [Server thread/INFO] [TransportSimulationCore/]: Removing player 7f1f1556-7105-30dd-9126-6db9324e5213
+[03Dec2025 01:57:28.594] [Server thread/INFO] [TransportSimulationCore/]: - Changed sidings: 1
+[03Dec2025 01:57:28.594] [Server thread/INFO] [TransportSimulationCore/]: - Deleted sidings: 1
+[03Dec2025 01:57:28.594] [Server thread/INFO] [TransportSimulationCore/]: - Changed depots: 1
+[03Dec2025 01:57:28.595] [Server thread/INFO] [TransportSimulationCore/]: - Changed rails: 1
+[03Dec2025 01:57:28.595] [Server thread/INFO] [TransportSimulationCore/]: - Deleted rails: 1
+[03Dec2025 01:57:28.595] [Server thread/INFO] [TransportSimulationCore/]: Save complete for minecraft/overworld in 0.002 second(s)
+[03Dec2025 01:57:58.644] [Server thread/INFO] [TransportSimulationCore/]: - Changed sidings: 1
+[03Dec2025 01:57:58.644] [Server thread/INFO] [TransportSimulationCore/]: - Changed depots: 1
+[03Dec2025 01:57:58.644] [Server thread/INFO] [TransportSimulationCore/]: Save complete for minecraft/overworld in 0.001 second(s)
+[03Dec2025 01:57:58.995] [Server thread/INFO] [TransportSimulationCore/]: Starting path generation for DEPOSITO...
+[03Dec2025 01:57:59.081] [Server thread/INFO] [TransportSimulationCore/]: Path generation complete for DEPOSITO
+[03Dec2025 01:58:28.694] [Server thread/INFO] [TransportSimulationCore/]: - Changed depots: 1
+[03Dec2025 01:58:28.694] [Server thread/INFO] [TransportSimulationCore/]: Save complete for minecraft/overworld in 0.001 second(s)
+[03Dec2025 01:58:56.444] [Server thread/INFO] [TransportSimulationCore/]: Starting path generation for DEPOSITO...
+[03Dec2025 01:58:56.500] [Server thread/INFO] [TransportSimulationCore/]: Path generation complete for DEPOSITO
+[03Dec2025 01:58:57.344] [Server thread/INFO] [TransportSimulationCore/]: Starting path generation for DEPOSITO...
+[03Dec2025 01:58:57.397] [Server thread/INFO] [TransportSimulationCore/]: Path generation complete for DEPOSITO
+[03Dec2025 01:58:58.744] [Server thread/INFO] [TransportSimulationCore/]: - Changed depots: 1
+[03Dec2025 01:58:58.744] [Server thread/INFO] [TransportSimulationCore/]: Save complete for minecraft/overworld in 0.001 second(s)
+[03Dec2025 01:59:28.794] [Server thread/INFO] [TransportSimulationCore/]: - Changed routes: 1
+[03Dec2025 01:59:28.794] [Server thread/INFO] [TransportSimulationCore/]: Save complete for minecraft/overworld in 0.001 second(s)
+[03Dec2025 01:59:58.844] [Server thread/INFO] [TransportSimulationCore/]: - Changed sidings: 1
+[03Dec2025 01:59:58.844] [Server thread/INFO] [TransportSimulationCore/]: - Changed routes: 1
+[03Dec2025 01:59:58.844] [Server thread/INFO] [TransportSimulationCore/]: Save complete for minecraft/overworld in 0.001 second(s)
+[03Dec2025 02:03:29.194] [Server thread/INFO] [TransportSimulationCore/]: - Changed routes: 1
+[03Dec2025 02:03:29.194] [Server thread/INFO] [TransportSimulationCore/]: - Deleted routes: 1
+[03Dec2025 02:03:29.194] [Server thread/INFO] [TransportSimulationCore/]: - Changed depots: 1
+[03Dec2025 02:03:29.194] [Server thread/INFO] [TransportSimulationCore/]: Save complete for minecraft/overworld in 0.001 second(s)
+[03Dec2025 02:03:42.944] [Server thread/INFO] [TransportSimulationCore/]: Starting path generation for DEPOSITO...
+[03Dec2025 02:03:42.996] [Server thread/INFO] [TransportSimulationCore/]: Path generation complete for DEPOSITO
+[03Dec2025 02:03:49.644] [Server thread/INFO] [TransportSimulationCore/]: Starting path generation for DEPOSITO...
+[03Dec2025 02:03:49.695] [Server thread/INFO] [TransportSimulationCore/]: Path generation complete for DEPOSITO
+[03Dec2025 02:03:50.194] [Server thread/INFO] [TransportSimulationCore/]: Starting path generation for DEPOSITO...
+[03Dec2025 02:03:50.245] [Server thread/INFO] [TransportSimulationCore/]: Path generation complete for DEPOSITO
+[03Dec2025 02:03:51.294] [Server thread/INFO] [TransportSimulationCore/]: Starting path generation for DEPOSITO...
+[03Dec2025 02:03:51.345] [Server thread/INFO] [TransportSimulationCore/]: Path generation complete for DEPOSITO
+[03Dec2025 02:03:59.244] [Server thread/INFO] [TransportSimulationCore/]: - Changed depots: 1
+[03Dec2025 02:03:59.244] [Server thread/INFO] [TransportSimulationCore/]: Save complete for minecraft/overworld in 0.001 second(s)
+[03Dec2025 02:04:59.344] [Server thread/INFO] [TransportSimulationCore/]: - Changed sidings: 1
+[03Dec2025 02:04:59.344] [Server thread/INFO] [TransportSimulationCore/]: Save complete for minecraft/overworld in 0.001 second(s)
+[03Dec2025 02:05:02.444] [Server thread/INFO] [TransportSimulationCore/]: Starting path generation for DEPOSITO...
+[03Dec2025 02:05:02.495] [Server thread/INFO] [TransportSimulationCore/]: Path generation complete for DEPOSITO
+[03Dec2025 02:05:29.394] [Server thread/INFO] [TransportSimulationCore/]: - Changed depots: 1
+[03Dec2025 02:05:29.394] [Server thread/INFO] [TransportSimulationCore/]: Save complete for minecraft/overworld in 0.001 second(s)
+[03Dec2025 02:06:29.494] [Server thread/INFO] [TransportSimulationCore/]: - Changed depots: 1
+[03Dec2025 02:06:29.494] [Server thread/INFO] [TransportSimulationCore/]: Save complete for minecraft/overworld in 0.001 second(s)
